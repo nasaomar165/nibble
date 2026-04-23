@@ -3,7 +3,17 @@
 A fluffy, sassy virtual pet living right inside your terminal.  
 Feed it, pet it, groom it, play fetch with it — or watch it get dramatically upset when you ignore it.  
 Nibble evolves through four life stages, has a dynamic personality that shifts between proud and needy, and will absolutely let you know when it's unhappy.
-
+```
+                               /\\    /\\          
+                              / · °  ° · \\       
+                             | *  >w<   * |      
+                             |  ~~~~~~~~  |      " Hi .. I'm Nibble"
+                             | ~~~~~~~~~~ |      
+                              \\ ~~~~~~~~ /       
+                                ·~~~~~~~·         
+                                ||    || ~~~^~     
+                                ^^    ^^  
+```                                
 ---
 
 ## 📦 Requirements
